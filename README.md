@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Harshill!" alt="Hi! I'm Harshill" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4800&lines=Hi+There!+%F0%9F%91%8B;+I'm+Harshill!" alt="Hi! I'm Harshill" />
 </div>
 
 <h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=25&duration=4800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=A+Passionate+Software+Developer!" align="middle" alt="Hey, I'm Harshill Welcome to my Profile! animated typed out"> </h3>
@@ -14,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,figma" />
 </div>
 
-<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
